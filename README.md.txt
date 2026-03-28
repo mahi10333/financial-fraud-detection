@@ -1,25 +1,30 @@
-DIGITAL LITERACY AWARENESS QUIZ
-https://docs.google.com/forms/d/e/1FAIpQLSfZoYsgfcBRrDP3879CnYjfnWdRxAoJcAIvjIgmKieBh3BluA/viewform?usp=publish-editor
+# Financial Fraud Detection (Python Only Web App)
 
-# Financial Fraud Detection (Python Only Website)
+This project is a **fraud detection web app** built using **Python** and **Streamlit**.  
+It allows real-time prediction of fraudulent financial transactions without requiring HTML/CSS knowledge.
 
-This project is a fraud detection web app built using Streamlit.
+---
 
-#App screenshot
-![Home page] (activityproof/activityproof1.png)
-![Home page] (activityproof/activityproof2.png)
+## 📋 Digital Literacy Awareness Quiz
+Take the quiz to test your knowledge on digital literacy:  
+[Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSfZoYsgfcBRrDP3879CnYjfnWdRxAoJcAlvjIgmKieBh3BluA/viewform?usp=publish-editor)
 
-## Run Project
+---
 
+## 🖼 App Screenshots
+
+### Home Page
+![Home Page 1](activityproof/activityproof1.png)  
+![Home Page 2](activityproof/activityproof2.png)
+
+### Prediction Result
+*(Replace with your result screenshot)*
+![Prediction Result](activityproof/prediction_result.png)
+
+---
+
+## ⚡ Run the Project
+
+### 1. Install Dependencies
+```bash
 pip install -r requirements.txt
-
-Train model:
-python train_model.py
-
-Run app:
-streamlit run app.py
-
-## Features
-- 100% Python-based web app
-- No HTML/CSS required
-- Real-time fraud prediction
