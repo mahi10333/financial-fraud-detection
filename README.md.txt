@@ -5,6 +5,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfZoYsgfcBRrDP3879CnYjfnWdRxAoJcAIvjIgm
 
 This project is a fraud detection web app built using Streamlit.
 
+#App screenshot
+![Home page] (activityproof/activityproof1.png)
+![Home page] (activityproof/activityproof2.png)
+
 ## Run Project
 
 pip install -r requirements.txt
