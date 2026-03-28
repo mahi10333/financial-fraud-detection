@@ -1,0 +1,25 @@
+# Stay Safe Online – Prevention Checklist
+
+## 🔐 General Safety Tips
+- Never share your OTP, UPI PIN, or passwords with anyone
+- Do not click on unknown or suspicious links
+- Always verify the identity of the person before making payments
+- Use strong and unique passwords for all accounts
+- Enable two-factor authentication (2FA) wherever possible
+- Avoid using public Wi-Fi for financial transactions
+
+## 💳 UPI / Financial Safety (Important)
+- Do not approve “collect requests” without verifying the sender
+- Remember: You do NOT need to enter PIN to receive money
+- Check payment details carefully before confirming transactions
+- Use only official banking and payment apps
+
+## 🚨 Awareness & Reporting
+- Regularly monitor your bank statements for unusual activity
+- Immediately report fraud to your bank
+- Report cybercrime at: https://cybercrime.gov.in
+- Call Cyber Crime Helpline: 1930
+
+## 🎓 For Students
+- Be cautious of fake internship or job offers asking for money
+- Do not share personal details on unknown websites
