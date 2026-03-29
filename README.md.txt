@@ -1,3 +1,6 @@
+Name- Mahi Vijay
+Branch- CSE AIML
+
 # Financial Fraud Detection (Python Only Web App)
 
 This project is a **fraud detection web app** built using **Python** and **Streamlit**.  
