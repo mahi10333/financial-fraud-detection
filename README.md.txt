@@ -12,13 +12,6 @@ It allows real-time prediction of fraudulent financial transactions without requ
 Take the quiz to test your knowledge on digital literacy:
 https://forms.gle/UYNo1SFmhNCp6LP79
 
----
-
-## 🖼 App Screenshots
-
-### Home Page
-![Home Page 1](activityproof/activityproof1.png)  
-![Home Page 2](activityproof/activityproof2.png)
 
 ### Prediction Result
 *(Replace with your result screenshot)*
