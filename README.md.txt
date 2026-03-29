@@ -9,8 +9,8 @@ It allows real-time prediction of fraudulent financial transactions without requ
 ---
 
 ## 📋 Digital Literacy Awareness Quiz
-Take the quiz to test your knowledge on digital literacy:  
-[Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSfZoYsgfcBRrDP3879CnYjfnWdRxAoJcAlvjIgmKieBh3BluA/viewform?usp=publish-editor)
+Take the quiz to test your knowledge on digital literacy:
+https://forms.gle/UYNo1SFmhNCp6LP79
 
 ---
 
